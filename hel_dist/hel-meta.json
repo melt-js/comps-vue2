@@ -3,14 +3,14 @@
     "name": "comps-vue2",
     "app_group_name": "comps-vue2",
     "git_repo_url": "",
-    "online_version": "2026.11.17",
-    "build_version": "2026.11.17"
+    "online_version": "2026.11.22",
+    "build_version": "2026.11.22"
   },
   "version": {
     "plugin_ver": "4.3.20",
     "extract_mode": "build",
     "sub_app_name": "comps-vue2",
-    "sub_app_version": "2026.11.17",
+    "sub_app_version": "2026.11.22",
     "src_map": {
       "webDirPath": "/comps-vue2/hel_dist",
       "htmlIndexSrc": "/comps-vue2/hel_dist/index.html",
@@ -21,11 +21,11 @@
         "/comps-vue2/hel_dist/css/chunk-a218c04c.7b5f5f98.css"
       ],
       "chunkJsSrcList": [
-        "/comps-vue2/hel_dist/js/runtime.ebb6c4da.js",
-        "/comps-vue2/hel_dist/js/vendor.6689940b.js",
-        "/comps-vue2/hel_dist/js/app.1d4e7700.js",
-        "/comps-vue2/hel_dist/js/chunk-15510a80.b5626a50.js",
-        "/comps-vue2/hel_dist/js/chunk-a218c04c.9818409f.js"
+        "/comps-vue2/hel_dist/js/runtime.ecb247f3.js",
+        "/comps-vue2/hel_dist/js/vendor.516c7aac.js",
+        "/comps-vue2/hel_dist/js/app.c391f3ab.js",
+        "/comps-vue2/hel_dist/js/chunk-15510a80.585aaf9f.js",
+        "/comps-vue2/hel_dist/js/chunk-a218c04c.6bab4945.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -61,7 +61,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2/hel_dist/js/chunk-15510a80.b5626a50.js",
+            "href": "/comps-vue2/hel_dist/js/chunk-15510a80.585aaf9f.js",
             "rel": "prefetch"
           }
         },
@@ -69,7 +69,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2/hel_dist/js/chunk-a218c04c.9818409f.js",
+            "href": "/comps-vue2/hel_dist/js/chunk-a218c04c.6bab4945.js",
             "rel": "prefetch"
           }
         },
@@ -77,7 +77,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2/hel_dist/js/app.1d4e7700.js",
+            "href": "/comps-vue2/hel_dist/js/app.c391f3ab.js",
             "rel": "preload",
             "as": "script"
           }
@@ -86,7 +86,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2/hel_dist/js/runtime.ebb6c4da.js",
+            "href": "/comps-vue2/hel_dist/js/runtime.ecb247f3.js",
             "rel": "preload",
             "as": "script"
           }
@@ -95,7 +95,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2/hel_dist/js/vendor.6689940b.js",
+            "href": "/comps-vue2/hel_dist/js/vendor.516c7aac.js",
             "rel": "preload",
             "as": "script"
           }
@@ -106,21 +106,21 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue2/hel_dist/js/runtime.ebb6c4da.js"
+            "src": "/comps-vue2/hel_dist/js/runtime.ecb247f3.js"
           }
         },
         {
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue2/hel_dist/js/vendor.6689940b.js"
+            "src": "/comps-vue2/hel_dist/js/vendor.516c7aac.js"
           }
         },
         {
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue2/hel_dist/js/app.1d4e7700.js"
+            "src": "/comps-vue2/hel_dist/js/app.c391f3ab.js"
           }
         }
       ],
@@ -135,11 +135,11 @@
         "/comps-vue2/hel_dist/img/clouds_top.31039c75.jpg",
         "/comps-vue2/hel_dist/img/logo.82b9c7a5.png",
         "/comps-vue2/hel_dist/index.html",
-        "/comps-vue2/hel_dist/js/chunk-15510a80.b5626a50.js.gz",
-        "/comps-vue2/hel_dist/js/chunk-a218c04c.9818409f.js.gz",
-        "/comps-vue2/hel_dist/js/vendor.6689940b.js.gz"
+        "/comps-vue2/hel_dist/js/chunk-15510a80.585aaf9f.js.gz",
+        "/comps-vue2/hel_dist/js/chunk-a218c04c.6bab4945.js.gz",
+        "/comps-vue2/hel_dist/js/vendor.516c7aac.js.gz"
       ]
     },
-    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>comps-vue2</title><script src=\"https://cdn.staticfile.org/vue/2.7.16/vue.min.js\"></script><link href=\"/comps-vue2/hel_dist/css/chunk-15510a80.7b5f5f98.css\" rel=\"prefetch\"><link href=\"/comps-vue2/hel_dist/css/chunk-a218c04c.7b5f5f98.css\" rel=\"prefetch\"><link href=\"/comps-vue2/hel_dist/js/chunk-15510a80.b5626a50.js\" rel=\"prefetch\"><link href=\"/comps-vue2/hel_dist/js/chunk-a218c04c.9818409f.js\" rel=\"prefetch\"><link href=\"/comps-vue2/hel_dist/js/app.1d4e7700.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2/hel_dist/js/runtime.ebb6c4da.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2/hel_dist/js/vendor.6689940b.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but @melt-js/comps-vue2 doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/comps-vue2/hel_dist/js/runtime.ebb6c4da.js\"></script><script src=\"/comps-vue2/hel_dist/js/vendor.6689940b.js\"></script><script src=\"/comps-vue2/hel_dist/js/app.1d4e7700.js\"></script></body></html>"
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>comps-vue2</title><script src=\"https://cdn.staticfile.org/vue/2.7.16/vue.min.js\"></script><link href=\"/comps-vue2/hel_dist/css/chunk-15510a80.7b5f5f98.css\" rel=\"prefetch\"><link href=\"/comps-vue2/hel_dist/css/chunk-a218c04c.7b5f5f98.css\" rel=\"prefetch\"><link href=\"/comps-vue2/hel_dist/js/chunk-15510a80.585aaf9f.js\" rel=\"prefetch\"><link href=\"/comps-vue2/hel_dist/js/chunk-a218c04c.6bab4945.js\" rel=\"prefetch\"><link href=\"/comps-vue2/hel_dist/js/app.c391f3ab.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2/hel_dist/js/runtime.ecb247f3.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2/hel_dist/js/vendor.516c7aac.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but @melt-js/comps-vue2 doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/comps-vue2/hel_dist/js/runtime.ecb247f3.js\"></script><script src=\"/comps-vue2/hel_dist/js/vendor.516c7aac.js\"></script><script src=\"/comps-vue2/hel_dist/js/app.c391f3ab.js\"></script></body></html>"
   }
 }
